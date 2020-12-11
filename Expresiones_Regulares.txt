@@ -23,6 +23,8 @@ Cuantificadores:
 Conjuntos de Caracteres
 []      - Caracteres dentro de los brackets
 [^ ]    - Caracteres que NO ESTAN dentro de los brackets
+[az-AZ] - Obtener rangos de letras
+[0-5]   - Obtener rangos de numeros
 
 Grupos
 ( )     - Grupo
